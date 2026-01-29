@@ -4,8 +4,8 @@ This project is an automation-based web scraping pipeline that collects laptop l
 
 It combines browser automation and HTML parsing to extract structured product data and store it in Excel format.
 
-Features:-
 
+Features:-
 Opens Amazon automatically using Selenium
 
 Searches for "Laptops"
@@ -17,7 +17,6 @@ Saves raw HTML pages for each page
 Parses product details from saved HTML
 
 Extracts:
-
 Product Title
 
 Price
@@ -43,7 +42,6 @@ amazon-selenium-scraper/
 └── data/              # Stored HTML files (generated at runtime)
 
 ⚙️ How It Works
-
 Selenium opens Amazon and performs a laptop search
 
 Each results page HTML is saved locally
@@ -59,23 +57,19 @@ pip install -r requirements.txt
 python main.py
 
 Output:-
-
 The script generates:
 
 amazon_laptops.xlsx
 
 
 Containing:
-
 Title	Price	Link
 
 ⚠️ Note
-
 This project is built for educational purposes to demonstrate automation and data extraction techniques.
 Website structures may change, and scraping may be restricted by site policies.
 
 Skills Demonstrated:-
-
 Web Automation
 
 Data Extraction
