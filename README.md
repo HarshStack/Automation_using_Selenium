@@ -25,6 +25,7 @@ OpenPyXL	Excel file creation
 
 📂 Project Structure
 amazon-selenium-scraper/
+
 │
 ├── main.py           
 ├── README.md         
