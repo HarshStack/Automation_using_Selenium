@@ -1,4 +1,6 @@
-🛒 Amazon Laptop Scraper using Selenium & BeautifulSoup
+
+Amazon Laptop Scraper using Selenium & BeautifulSoup
+
 This project is an automation-based web scraping pipeline that collects laptop listings from Amazon search results.
 It combines browser automation and HTML parsing to extract structured product data and store it in Excel format.
 
