@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Raw scraped HTML files
+data/
+
+# Output files
+*.xlsx
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
