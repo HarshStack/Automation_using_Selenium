@@ -19,16 +19,14 @@ Product Link
 Exports all results into an Excel file
 
 Tech Stack:-
-Tool	Purpose
-Python	Core programming
-Selenium	Browser automation
-BeautifulSoup	HTML parsing
-OpenPyXL	Excel file creation
+Python,
+Selenium	Browser automation,
+BeautifulSoup	HTML parsing,
+OpenPyXL.
 
 📂 Project Structure
 amazon-selenium-scraper/
 
-│
 ├── main.py           
 ├── README.md         
 ├── requirements.txt   
